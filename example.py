@@ -8,7 +8,14 @@ def function2():
 
 def ejemploSuma(x, y):
     res = x+y
+    print(res)
     return res
+
+def ejemploPrint():
+    print("Hola mundo!!!")
+
 
 newFunction()
 function2()
+ejemploSuma()
+ejemploPrint()
