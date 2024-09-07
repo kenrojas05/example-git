@@ -17,5 +17,5 @@ def ejemploPrint():
 
 newFunction()
 function2()
-ejemploSuma()
+ejemploSuma(2,5)
 ejemploPrint()
